@@ -26,13 +26,12 @@ html {
 
 .sidebar__items {
   padding-top: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
   list-style-type: none;
   text-transform: uppercase;
   font-size: 16px;
   white-space: pre;
   font-weight: 600;
+  text-align: left;
 }
 
 .sidebar__items a {
@@ -63,7 +62,7 @@ html {
   margin-top: 10%;
   background-color: #f0f0f0;
   width: 500px;
-  height: 400px;
+  height: 40%;
   margin-left: 2%;
   box-shadow: 3px 3px 3px #f0f0f0;
   border-radius: 20px;
